@@ -1,0 +1,8 @@
+# AConsole
+
+This is a simple console that redirect the System.out and System.err to Android screen, its usefull if you wants to run and see results of simple Java projects.
+
+
+# How to use
+
+Just extends your class to ConsoleActivity and override the main method and starts writing your code into it.
