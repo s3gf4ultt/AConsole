@@ -12,6 +12,6 @@ public class MainActivity extends ConsoleActivity
 	@Override
 	public void main(String[] args)
 	{
-		
+		System.out.println("Hello world");
 	}
 }
